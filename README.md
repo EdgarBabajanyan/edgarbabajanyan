@@ -61,7 +61,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://giphy.com/gifs/xSIdFqJYsuUOaLKecs" alt="QuickDex" height="300" width="500"></p>
+<iframe src="https://giphy.com/embed/xSIdFqJYsuUOaLKecs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xSIdFqJYsuUOaLKecs">via GIPHY</a></p>
 
 
 
