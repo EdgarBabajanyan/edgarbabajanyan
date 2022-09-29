@@ -67,11 +67,7 @@ bioPrint()
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedgarTech&langs_count=10&theme=tokyonight&layout=compact" alt="Edgar's :: Top Langs" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{RedgarTech}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 <p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="600" height="338"></p>
