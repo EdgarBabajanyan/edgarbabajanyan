@@ -3,8 +3,8 @@
 ```python3.8
 import edgarbabajanyan
 
-def bioPrint:
-	return Bio{
+def bioPrint():
+print('''
 		"- ⚡ Quick bio:":                    "Absolute techie! I dabble with Software just as much as Hardware!",
 		"- 🔭 I’m currently working on":      "QuickDex! One place for everything! Docs, Sheets, Coding, Organization, and even gaming!",
 		"- 🖥️ I am familiar with":            "App and Backend Development: Python, Java, C++, Javascript, NodeJS --> Front-end: ReactJS, Angular, Tkinter
@@ -13,8 +13,9 @@ def bioPrint:
 		"- 🤔 I’m looking for help with":     "R and Tensorflow work! AI and Data Manipulation is my next venture!",
 		"- 💬 Ask me about":                  "Software Design & Architecture, Web-Development, Front-end Design, Business Registration and Phases",
 		"- 📫 How to reach me:":              "Email: bedgar2005@gmail.com, babajanyaned23@amityschools.org, 203-343-3094"
-	}
-}
+	'''
+
+bioPrint()
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
