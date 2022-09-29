@@ -63,11 +63,7 @@ bioPrint()
   </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{RedgarTech}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 <p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="600" height="338"></p>
