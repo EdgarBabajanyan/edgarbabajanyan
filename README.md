@@ -150,7 +150,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="300" height="500"></p>
+<p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="600" height="338"></p>
 
 
 
