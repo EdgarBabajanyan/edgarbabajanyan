@@ -71,11 +71,8 @@ bioPrint()
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedgarTech&langs_count=10&theme=tokyonight&layout=compact" alt="Edgar's :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="600" height="338"></p>
 
