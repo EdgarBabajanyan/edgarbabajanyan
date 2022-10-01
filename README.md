@@ -35,10 +35,11 @@ bioPrint()
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools I use when Developing Projects!</p>
-<p align="center">
-  <a href="https://stackshare.io/redgartech/my-personal-stack">
+<a href="https://stackshare.io/redgartech/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
+<p align="center">
+  
 </p>
 
 
