@@ -45,7 +45,7 @@ bioPrint()
 </p>
 
 
-
+<h2> Also, be sure to checkout "quickdex.net" !!)
 
 <p align="center"><img src="https://media.giphy.com/media/VIa2i3fwC0lPQf3iuQ/giphy.gif" width="600" height="338"></p>
 
