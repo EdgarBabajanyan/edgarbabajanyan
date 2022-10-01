@@ -33,6 +33,8 @@ bioPrint()
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
+
+<h2> <--- (Tools I use in App Development, Web Development, etc.)
 <a href="https://stackshare.io/redgartech/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
