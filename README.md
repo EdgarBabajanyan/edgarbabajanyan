@@ -27,6 +27,7 @@ bioPrint()
   <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Edgar's Stack Overflow Profile" height="30" width="30">
   </a>
+  <h2/>
 
 
 </p>
