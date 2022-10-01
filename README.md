@@ -24,7 +24,7 @@ bioPrint()
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Edgar's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+  <a href="https://stackoverflow.com/users/13421190/redgar-tech">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Edgar's Stack Overflow Profile" height="30" width="30">
   </a>
   </h2>
