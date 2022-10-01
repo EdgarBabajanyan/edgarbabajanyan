@@ -36,8 +36,7 @@ bioPrint()
 
 <a href="https://stackshare.io/redgartech/my-personal-stack">
 	
-	<h2><---- (Tools I use in App Development, Web Development, etc.)</h2>
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+    Tools I use in App Development, Web Development, etc.
   </a>
  
 
