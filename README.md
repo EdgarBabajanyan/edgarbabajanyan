@@ -1,4 +1,4 @@
-<h2 align="center">About me</h2>
+<h2 align="center">About me 😁</h2>
 
 ```python3.8
 import edgarbabajanyan
