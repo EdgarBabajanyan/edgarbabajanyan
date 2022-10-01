@@ -45,7 +45,7 @@ bioPrint()
 </p>
 
 
-<h2> Also, be sure to checkout QuickDex at quickdex.net </h2>
+<h2> Also, be sure to checkout QuickDex at quickdex.net !! </h2>
 
 <br>
 
