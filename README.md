@@ -12,7 +12,7 @@ print('''
 		"- 👯 I’m looking to collaborate on": "Artificial Intelligence research and Drone Technologies",
 		"- 🤔 I’m looking for help with":     "R and Tensorflow work! AI and Data Manipulation is my next venture!",
 		"- 💬 Ask me about":                  "Software Design & Architecture, Web-Development, Front-end Design, Business Registration and Phases",
-		"- 📫 How to reach me:":              "Email: bedgar2005@gmail.com, babajanyaned23@amityschools.org, 203-343-3094, StackOverflow (for help with your project!!)"
+		"- 📫 How to reach me:":              "Email: bedgar2005@gmail.com, babajanyaned23@amityschools.org, 203-343-3094, StackOverflow (for help with your project!)"
 	'''
 
 bioPrint()
