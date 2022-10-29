@@ -34,7 +34,7 @@ bioPrint()
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<a href="https://stackshare.io/redgartech/my-personal-stack">
+<a href="https://stackshare.io/redgartech/collection-of-tools-and-services#stack">
 	
     Tools I use in App Development, Web Development, etc.
   </a>
