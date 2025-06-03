@@ -45,7 +45,7 @@ bioPrint()
 </p>
 
 
-<h2> Also, be sure to checkout Zenmigo at zenmigo.com !! </h2>
+<h2> Also, be sure to checkout Captain, an AI Co-pilot for Enterprise data at runcaptain.com !! </h2>
 
 <br>
 
