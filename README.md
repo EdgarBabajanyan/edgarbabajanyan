@@ -7,7 +7,7 @@ def bioPrint():
 print('''
 		"- ⚡ Quick bio:":                    "Absolute techie! I dabble with Software just as much as Hardware!",
 		"- 🔭 I was working on":      "Zenmigo! One place for everything! Docs, Sheets, Coding, Organization, and even gaming!",
-		"- 🔭 NOW working on":        "Captain (YC F25), a Scalable Alternative to RAG, building on big data's SQL architecture, using agents to index and retrieve data.",
+		"- 🔭 NOW working on":        "Captain (YC W26), a Scalable Alternative to RAG, building on big data's SQL architecture, using agents to index and retrieve data.",
 		"- 🖥️ I am familiar with":            "App and Backend Development: Python, Java, C++, Javascript, NodeJS --> Front-end: ReactJS, Angular, Tkinter
 							Database: MySQL, MongoDB, and Parse
 		"- 👯 I’m looking to collaborate on": "Artificial Intelligence research and Drone Technologies",
